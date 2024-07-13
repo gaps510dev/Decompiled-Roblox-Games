@@ -7,3 +7,6 @@ This repository is for ROBLOX games that have been dumped using Medal. All files
 If you encounter any issues, have suggestions for games to be added, or to report game updates, please join our Discord server.
 
 [Join our Discord Server](https://discord.gg/taaqFHXjsS)
+
+## Important Note
+You cannot play these games! They are intended for script developers, people who need the models, or people just curious how the game works. They are unable to be played.
