@@ -1,4 +1,4 @@
-# Roblox Game Dumps
+# Roblox Archive
 
 ## About & Credit
 This repository is for ROBLOX games that have been dumped using Medal. All files have been obtained legally and do not violate any Terms of Service (TOS).
